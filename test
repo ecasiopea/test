@@ -1,0 +1,4 @@
+Object.prototype.a = 5;
+
+var v = {};
+console.log(v.a); //5
